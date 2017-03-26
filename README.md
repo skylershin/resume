@@ -11,7 +11,7 @@ linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
     단기 목표는 iOS, ReactNative를 공부하는 것이고,
     장기 목표는 Mobile Platform 전문 개발자 입니다.
 
-> Inspired from :
+###### Inspired from,
 * [Reactive apps how to build more engaging mobile experiences](https://realm.io/news/reactive-apps-how-to-build-more-engaging-mobile-experiences/)
 * [Re-architecting pinterest](https://medium.com/@Pinterest_Engineering/re-architecting-pinterest-039-s-ios-app-e0a2d34a6ac2#.1e8fstb3n)
 * [Becoming bilingual coursera](https://building.coursera.org/blog/2016/03/16/becoming-bilingual-coursera/)
