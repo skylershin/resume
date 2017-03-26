@@ -33,15 +33,18 @@ linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
 ----
 ## Projects
 ** Learn Android Programming with Kotlin **
+
 *  Kotlin 활용한 Android Programming 수업.
 * 간단한 TODO application 을 만드는 것이 수업의 목표.  
 * [github](https://github.com/skylershin/kotlin-android-sample)
 
 ** Grazzi **
+
 * Swift를 활용해서 만든 간단한 iOS 메모 어플리케이션.
 * iOS 환경을 경험해보기 위한 프로젝트로, 기초적인 Swift 문법을 활용해서 만듬.
 * [blog](https://medium.com/@Munkyu/나의-첫-ios-application-grazzi-97ed4304e8ae#.tdsyaov2z)
 * [github](https://github.com/Nexters/DailyHappy)
 
 ** feelingcon **   
+
 * Kotlin 을 활용한 MVP 아키텍쳐를 정리하기 위한 프로젝트.
