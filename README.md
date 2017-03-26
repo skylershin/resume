@@ -31,8 +31,8 @@ linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
 
 **MangoPlate for Service. (B2B web application)**
   * 레스토랑 실시간 대기현황 서비스.
-  * React + Redux 를 활용한 script 개발(Publisher 와 함께 진행)
   * **Project Structure 설계** 및 **Redux Store설계** 작업.
+  * React + Redux 를 활용한 script 개발(Publisher 와 함께 진행)
 
 **MangoPlate Tech Blog Editor**
   * 망고플레이트를 구성하고 있는 다양한 기술의 이야기를 들려주는 역할.
