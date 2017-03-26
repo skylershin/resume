@@ -5,11 +5,19 @@ github: [github.com/skylershin](github.com/skylershin)
 linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
 
     Android 개발 2년 8개월 경력을 가지고 있습니다.
-    Reactive Programming 에 관심이 많아 학습 중 이며,
-    밑바탕이 되는 Solid Architecture 와 UI & UX 에 대해 고민합니다.
+    Reactive Application을 만드는 것에 관심이 있어,
+    밑바탕이 되는 Solid Architecture와 UI & UX 에 대해 고민합니다.
     새로운 것을 경험하고 나누는 것을 좋아하여, 종종 블로그 글을 쓰고 있습니다.
     단기 목표는 iOS, ReactNative를 공부하는 것이고,
     장기 목표는 Mobile Platform 전문 개발자 입니다.
+
+> Inspired from :
+* [Reactive apps how to build more engaging mobile experiences](https://realm.io/news/reactive-apps-how-to-build-more-engaging-mobile-experiences/)
+* [Re-architecting pinterest](https://medium.com/@Pinterest_Engineering/re-architecting-pinterest-039-s-ios-app-e0a2d34a6ac2#.1e8fstb3n)
+* [Becoming bilingual coursera](https://building.coursera.org/blog/2016/03/16/becoming-bilingual-coursera/)
+* [ReactNative at instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.1khyu3jkc)
+* [OpenSourcing our android and ios apps](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd#.jb56ztyel)
+
 ----
 ## Technology
   * **Android**: Java, Kotlin, Reactive Programming, Clean Architecture, Material Design, Unit Testing.
