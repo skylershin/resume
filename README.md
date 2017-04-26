@@ -1,6 +1,6 @@
-# 신문규
+## 신문규
 email: munkyu.s.shin@gmail.com  
-blog: [medium](https://medium.com/@Munkyu)  
+blog: [medium.com/@Munkyu](https://medium.com/@Munkyu)  
 github: [github.com/skylershin](github.com/skylershin)  
 linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
 
@@ -19,14 +19,18 @@ linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
 * [OpenSourcing our android and ios apps](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd#.jb56ztyel)
 
 ----
-## Technology
+#### Education
+* **2015 B.M in Digital Media, Ajou University**
+
+----
+#### Technology
   * **Android**: Java, Kotlin, Reactive Programming, Clean Architecture, Material Design, Unit Testing.
   * **Web**: React, Redux
   * **Familiar with agile culture**: Scrum, Code Review, Pair Programming
 
 ----
-## Experience
-**Software Engineer**  @MangoPlate  
+#### Work Experience
+**Software Engineer** at MangoPlate  
 2014.07 ~ (2 year and 8 months)  
 
 **MangoPlate Android Application.**  
@@ -47,7 +51,7 @@ linkedin: [Munkyu Shin](https://www.linkedin.com/in/munkyu-shin-a4990683/)
   * 서버 개발팀, 웹 개발팀, 모바일 개발팀의 기술을 인터뷰 하고 관련 내용을 리서치 한 후에 글로 완성.
 
 ----
-## Projects
+#### Side Projects
 **Learn Android Programming with Kotlin**
 
 * Kotlin 활용한 Android Programming 수업.
